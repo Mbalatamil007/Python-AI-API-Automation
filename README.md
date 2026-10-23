@@ -448,3 +448,27 @@ This project demonstrates:
 
 Python | Generative AI | API Integration | Gmail Automation |
 Google Sheets Automation
+
+
+---
+
+## 📊 Google Sheets – Live Automation Output
+
+This project automatically stores AI-generated responses in Google Sheets.
+
+### Data Captured
+
+- 📅 Date & Time
+- ❓ User Question
+- 🤖 AI-Generated Response
+- 📧 Email Delivery Status
+
+### 🔗 View Google Sheets Output
+
+[Click Here to View Live Google Sheets](PASTE_YOUR_GOOGLE_SHEETS_LINK_HERE)
+
+### 🔄 Automation Workflow
+
+User Question → OpenAI API → Gmail → Google Sheets
+
+The Google Sheet is automatically updated whenever the Python automation runs successfully.
